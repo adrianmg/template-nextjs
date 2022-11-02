@@ -1,7 +1,5 @@
 # Next.js 13 template
 
-This is a [Next.js](https://nextjs.org/) template inspired by [jclem](https://github.com/jclem/template-nextjs).
-
 Includes:
 
 - nextjs
@@ -16,3 +14,5 @@ Get started by running the following commands:
 npm install
 npm run dev
 ```
+
+This is a [Next.js](https://nextjs.org/) template inspired by [jclem](https://github.com/jclem/template-nextjs).
